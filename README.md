@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gurjung</h1>
-<h3 align="center">A passionate Front-End Developer focused on React and modern JavaScript</h3>
+<h3 align="center">Front-End Software Engineer focused on React and modern JavaScript</h3>
 
 ---
 
