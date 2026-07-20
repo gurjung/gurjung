@@ -23,12 +23,22 @@
 
 ---
 
-### 📊 LeetCode Progress
+### 📊 Coding Profiles
 
 <h2 align="center">📊 LeetCode Progress</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/gurjung997?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/gurjung997/">
+    <img src="https://leetcard.jacoblin.cool/gurjung997?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<h3 align="center">GeeksforGeeks</h3>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/user/gurjung997/">
+    <img src="https://gfgstatscard.vercel.app/api?username=gurjung997&theme=dark" />
+  </a>
 </p>
 
 ---
