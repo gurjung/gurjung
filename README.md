@@ -14,7 +14,7 @@
 
 ---
 
-### 🎯 Current Goals (2025)
+### 🎯 Current Goals (2026)
 
 - 🔨 Practicing JavaScript polyfills (deep understanding of internals)
 - 🧩 Solving DSA problems (Leetcode - Arrays, Objects, Strings)
