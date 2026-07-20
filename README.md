@@ -17,7 +17,7 @@
 ### 🎯 Current Goals (2026)
 
 - 🔨 Practicing JavaScript polyfills (deep understanding of internals)
-- 🧩 Solving DSA problems (Leetcode - Arrays, Objects, Strings)
+- 🧩 Solving DSA problems
 - ⚛️ Building React machine coding projects
 - 🧪 Writing test cases using RTL and Jest
 
@@ -53,8 +53,8 @@
 
 ### 📬 Let's Connect
 
-- 📧 Email: [gurjung997@gmail.com](mailto:gurjung997@gmail.com)
-- 🧑‍💼 LinkedIn: [linkedin.com/in/gurjung](https://linkedin.com/in/gurjung-singh-945731219)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gurjung997@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gurjung-singh-945731219)
 
 ---
 
