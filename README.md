@@ -36,7 +36,9 @@
 <h3 align="center">GeeksforGeeks</h3>
 
 <p align="center">
-  <img src="https://gfg-stats.tashif.codes/gurjung997?theme=dark" alt="GeeksforGeeks Stats" />
+  <a href="https://www.geeksforgeeks.org/user/gurjung997/">
+    <img src="https://gfgstatscard.vercel.app/api?username=gurjung997" alt="GeeksforGeeks Stats" />
+  </a>
 </p>
 
 ---
