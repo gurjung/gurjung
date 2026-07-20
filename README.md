@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/user/gurjung997/">
-    <img src="https://gfgstatscard.vercel.app/api?username=gurjung997" alt="GeeksforGeeks Stats" />
+    <img src="https://gfgstatscard.vercel.app/gurjung997" alt="GeeksforGeeks Stats" />
   </a>
 </p>
 
