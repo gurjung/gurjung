@@ -23,10 +23,21 @@
 
 ---
 
+### 📊 LeetCode Progress
+
+<h2 align="center">📊 LeetCode Progress</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/gurjung997?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 📚 Featured Repositories
 
 - 🛠️ [JavaScript Polyfills](https://github.com/gurjung/js-polyfills) — Custom polyfills with test cases and learning notes
-- 📁 [DSA Practice](https://github.com/gurjung/js-dsa) — Daily solved problems from Leetcode (Arrays, Strings, Objects)
+- 💻 [LeetCode Solutions](https://github.com/gurjung/leetcode-solutions) — Automatically synced solutions with progress tracking
+- ⚛️ [React Machine Coding](https://github.com/gurjung/...) — Real-world React interview projects
 
 ---
 
