@@ -45,9 +45,8 @@
 
 ### 📚 Featured Repositories
 
-- 🛠️ [JavaScript Polyfills](https://github.com/gurjung/js-polyfills) — Custom polyfills with test cases and learning notes
+- 🛠️ [Dev Board](https://github.com/gurjung/devboard-platform) — Project management platform built with Next.js
 - 💻 [LeetCode Solutions](https://github.com/gurjung/leetcode-solutions) — Automatically synced solutions with progress tracking
-- ⚛️ [React Machine Coding](https://github.com/gurjung/...) — Real-world React interview projects
 
 ---
 
